@@ -1,2 +1,2 @@
-# Lab-5
+# Labs
 CDA3331C 
